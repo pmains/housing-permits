@@ -1,0 +1,5 @@
+pip
+numpy
+scipy
+pandas
+upgrade_ensurepip
